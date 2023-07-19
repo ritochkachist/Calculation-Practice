@@ -1,7 +1,7 @@
 # 7/19/2023
 # Margarita Chistiakova
 
-import random
+import random 
 import time
 
 OPERATORS = ["+", "-", "*"]
